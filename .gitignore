@@ -25,3 +25,4 @@ go.work.sum
 .env
 *.swp
 cmd/cborfile2pages2writer/cborfile2pages2writer
+cmd/indexedcbors2writer/indexedcbors2writer
